@@ -1,11 +1,7 @@
-<p align="center">
-  <img src=".github/logo.png" width="200" alt="FreelanceHours Logo">
-</p>
-
 # 🚀 Elevvo Internship – Shehbaz
 
 <p align="center">
-  <img src=".github/Shehbaz-Elevvo-Internship.png" alt="Project Preview" width="80%">
+  <img src="https://github.com/Shehbaz-Developer/evento-project-rocketseat-php-laravel/blob/main/Shehbaz-Elevvo-Internship.png" alt="Project Preview" width="80%">
 </p>
 
 ## Google Drive Link
